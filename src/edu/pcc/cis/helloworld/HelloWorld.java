@@ -5,7 +5,7 @@ package edu.pcc.cis.helloworld;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Greetings, all.");
+        System.out.println("Greetings, from Matt Hansen.");
         System.out.println("This will be interesting...");
     }
 }
